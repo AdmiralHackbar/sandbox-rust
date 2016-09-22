@@ -1,5 +1,5 @@
 [package]
-name = "rust-sandbox"
+name = "anagram_detector"
 version = "0.1.0"
 authors = ["Daniel Gephardt: <dgephardt@novilabs.com>"]
 

@@ -1,0 +1,4 @@
+[root]
+name = "anagram_detector"
+version = "0.1.0"
+
